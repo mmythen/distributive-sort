@@ -7,7 +7,7 @@ Goofball algorithm I made that constructs a sorted array by distributing sum dif
 3. Distributes values either up or down depending on difference by cycling through array positions
 
 Results in an array where all elements are very as close together as possible while maintaining the original sum and containing no duplicates.
-Likely not super useful but was pretty fun to make.
+Cannot imagine it to be useful but was pretty fun to make.
 
 ## Complexities
 - **Time Complexity**: O(n + |difference in sums|)
